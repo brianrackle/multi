@@ -11,3 +11,5 @@ When you can do this:
 >    multi::array<int, 2, 2> new_array = {{ {0,1}, {2,3} }};
 >
 >    multi::vector<int, 2> new_vector = { {0,1}, {2,3}  };
+
+Blog post: http://blog.brainstembreakfast.com/update/c++/2015/04/15/multi-array-multi-vector-sfinae/
