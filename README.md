@@ -15,6 +15,11 @@ multi::vector<int, 2> new_vector = { {0,1}, {2,3}  };
 
 Extremely light weight header only implementation using alias templates.
 
+Just use:
+```c++
+#include <multi/multi.hpp>
+```
+
 ## Platforms
 Tested on clang++-4.6
 
