@@ -13,7 +13,7 @@ multi::array<int, 2, 2> new_array = {{ {0,1}, {2,3} }};
 multi::vector<int, 2> new_vector = { {0,1}, {2,3}  };
 ```
 
-A simple alias template for more easier multi-dimensional containers.
+A simple alias template for easier multi-dimensional containers.
 
 ## Platforms
 Tested on clang++-4.6
